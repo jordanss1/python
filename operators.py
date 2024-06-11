@@ -44,6 +44,10 @@ print(x|y)
 
 print(x & y)
 
+x = 5 + 3 / (2 + 3)
+
+print(x)
+
 
 
 
